@@ -55,8 +55,14 @@ __[CrossICC: 跨数据集样本聚类的算法实现](https://github.com/bioinfo
 `2016-2017`
 __[LncPipeReporter: 全自动报表工具](https://github.com/bioinformatist/LncPipeReporter)__
 - R package, 母项目[LncPipe](https://github.com/nf-core/lncpipe)发表于Journal of Genetics and Genomics (IF > 4)
+- 兼顾母项目的Docker Image搭建
 - 高代码质量，测试覆盖率 > 90%
 - 顺滑体验，一键生成交互式HTML报告
+
+`2016`
+__[R Plot Gallery: 优雅的数据可视化技巧](https://github.com/likelet/RscriptCollection)__
+- CNS发表级精美图表
+- 和好兄弟的科研绘图日常
 
 ### 桌面程序
 
